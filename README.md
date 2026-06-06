@@ -4,7 +4,7 @@
 
 # Chintala Dinakar
 
-**Full Stack Developer · MERN · AI Integration ·  India**
+**Full Stack Developer · MERN · AI Integration · Warangal, India**
 
 I build full-stack web apps that actually ship — from backend APIs to frontend UIs to AI-powered features in production. I've worked across an internship, a 0-to-1 startup, and freelance projects, so I'm comfortable owning a feature end-to-end and figuring things out fast.
 
@@ -16,19 +16,19 @@ I'm open to full-time remote engineering roles and freelance web development wor
 
 ## 🏆 trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chintaladinakar&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chintaladinakar&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chintaladinakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chintaladinakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
   <img src="https://streak-stats.demolab.com?user=Chintaladinakar&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintaladinakar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintaladinakar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 ---
@@ -58,9 +58,6 @@ I'm open to full-time remote engineering roles and freelance web development wor
   <a href="https://github.com/Chintaladinakar/examshala-v2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chintaladinakar&repo=examshala-v2&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Chintaladinakar/website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chintaladinakar&repo=website&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 ### Examshala — Online Assessment Platform
@@ -68,13 +65,9 @@ Multi-user exam platform with OTP auth, JWT sessions, browser monitoring, concur
 
 `Node.js` `Express` `MongoDB` `React.js` `JWT`
 
-### [Smart Waves](https://www.smart-waves.com/) — Client Website
-Designed and deployed a 6+ page responsive company website end-to-end — layout, performance, accessibility, deployment, and hosting all handled solo.
-
-`HTML` `CSS` `JavaScript`
 
 ### Datavalley Internal Portals
-AI agent-powered features across 4+ internal web portals — automating tracking, data workflows, and process management in a live Agile team environment.
+AI agent-powered features across 4+ internal web portals — automating tracking, data workflows, and process management in a live Agile team environment. *(Private — company work)*
 
 `React.js` `Node.js` `MongoDB` `RESTful APIs`
 
@@ -96,12 +89,12 @@ AI agent-powered features across 4+ internal web portals — automating tracking
 
 ## 📬 let's talk
 
-I'm actively looking for **remote software engineering roles** and **freelance web development projects**.
+I'm actively looking for **full-time remote software engineering roles** and **freelance web development projects**.
 If you're building something interesting, reach out.
 
 📧 chintaladinakar7@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/chintaladinakar/)
-🌐 [Smart Waves](https://www.smart-waves.com/)
+💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+🌐 [Smart Waves](https://smartwaves.in)
 
 ---
 
