@@ -1,16 +1,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Chintaladinakar&color=0e75b6&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Hey+I'm+Dinakar+👋;Full+Stack+Developer+%7C+MERN;AI+Integration+%7C+Product+Builder;Open+to+Remote+%26+Freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Hey+I'm+Dinakar+👋;Full+Stack+Developer+%7C+MERN;AI+Integration+%7C+Product+Builder;Open+to+Full-Time+%26+Freelance)](https://git.io/typing-svg)
 
 # Chintala Dinakar
 
-**Full Stack Developer · MERN · AI Integration · Warangal, India**
+**Full Stack Developer · MERN · AI Integration ·  India**
 
 I build full-stack web apps that actually ship — from backend APIs to frontend UIs to AI-powered features in production. I've worked across an internship, a 0-to-1 startup, and freelance projects, so I'm comfortable owning a feature end-to-end and figuring things out fast.
 
 Right now I'm deepening my work on AI agent integration and building Examshala — an online assessment platform — as my flagship open-source project.
 
-I'm open to remote engineering roles and freelance web development work.
+I'm open to full-time remote engineering roles and freelance web development work.
 
 ---
 
@@ -68,7 +68,7 @@ Multi-user exam platform with OTP auth, JWT sessions, browser monitoring, concur
 
 `Node.js` `Express` `MongoDB` `React.js` `JWT`
 
-### [Smart Waves](https://smartwaves.in) — Client Website
+### [Smart Waves](https://www.smart-waves.com/) — Client Website
 Designed and deployed a 6+ page responsive company website end-to-end — layout, performance, accessibility, deployment, and hosting all handled solo.
 
 `HTML` `CSS` `JavaScript`
@@ -100,8 +100,8 @@ I'm actively looking for **remote software engineering roles** and **freelance w
 If you're building something interesting, reach out.
 
 📧 chintaladinakar7@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-🌐 [Smart Waves](https://smartwaves.in)
+💼 [LinkedIn](https://www.linkedin.com/in/chintaladinakar/)
+🌐 [Smart Waves](https://www.smart-waves.com/)
 
 ---
 
